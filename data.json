@@ -1,0 +1,20 @@
+[
+    {
+        "location_code": "1",
+        "description": "Queen Of the arabian Sea",
+        "city": "Kochi",
+        "country": "India"
+    },
+    {
+        "location_code": "2",
+        "description": "Queen Of the Bay of bengal",
+        "city": "Kolkata",
+        "country": "India"
+    },
+    {
+        "location_code": "3",
+        "description": "Pearls nests",
+        "city": "Chennai",
+        "country": "India"
+    }
+]
